@@ -1,0 +1,31 @@
+"*":
+  "exception-reporting":
+    userId: "c7f231f1-9290-679d-9bc8-bc710969f4f6"
+  welcome:
+    showOnStartup: false
+  editor:
+    invisibles: {}
+    tabLength: 4
+    fontSize: 12
+  core:
+    themes: [
+      "atom-material-ui"
+      "batman-syntax"
+    ]
+  react:
+    enabledForAllJavascriptFiles: true
+  "file-watcher":
+    promptWhenFileHasChangedOnDisk: false
+  nuclide:
+    remoteProjectsConfig: []
+  linter:
+    showErrorTabLine: true
+    showErrorPanel: false
+  "linter-scss-lint":
+    executablePath: "/usr/bin/scss-lint"
+  "tool-bar":
+    position: "Left"
+  "tree-view": {}
+  "atom-material-ui":
+    compactTreeView: true
+    panelContrast: true

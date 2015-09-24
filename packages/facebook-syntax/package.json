@@ -1,0 +1,34 @@
+{
+  "name": "facebook-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "An atom theme based on Facebook's typical washed up blues and pastels",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luskidotme/facebook-syntax"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "readme": "#facebook-syntax\nAn Atom theme based on Facebook's typical washed up blues and pastels.\n\nScreenshot :\n\n![A screenshot of your theme](https://cloud.githubusercontent.com/assets/7817585/6288954/1e4d9970-b91d-11e4-8f4d-f7557ffc7737.png)\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/luskidotme/facebook-syntax/issues"
+  },
+  "homepage": "https://github.com/luskidotme/facebook-syntax",
+  "_id": "facebook-syntax@1.0.0",
+  "_shasum": "dee11e4afb0d4e44ef4eb2d9d71a9550984c9bd2",
+  "_resolved": "file:../d-115628-84529-16vulfg/package.tgz",
+  "_from": "../d-115628-84529-16vulfg/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
